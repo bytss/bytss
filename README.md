@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,js,html,css)](https://skillicons.dev)
 
 <!--
 **bytss/me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
