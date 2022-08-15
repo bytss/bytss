@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there 👋
+# Hey There! 👋
+**I'm Bytess (he/they)** - I'm an android developer, designer, and college student. I'm interested in development. I work on random projects in my free time, a lot involving Discord!
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,js,html,css)](https://skillicons.dev)
 
