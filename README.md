@@ -3,9 +3,10 @@
 </div>
 
 # Hey There! 👋
-**I'm Bytess (he/they)** - I'm an android developer, designer, and college student. I'm interested in development. I work on random projects in my free time, a lot involving Discord!
+**I'm Bytess (he/they)** - I'm a college student, an android developer, and currenlty I do practice web development. I work on random projects in my free time, a lot involving Discord!
+<img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,nodejs,figma,js,html,css)](https://skillicons.dev)
 
 <!--
 **bytss/me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +26,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytss&theme=tokyonight&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
