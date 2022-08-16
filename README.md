@@ -3,7 +3,7 @@
 </div>
 
 # Hey There! 👋
-**I'm Bytess (he/they)** - I'm a college student, an android developer, and currenlty I do practice web development. I work on random projects in my free time, a lot involving Discord!
+**I'm Jefferson (he/they)** - I'm a college student, an android developer, and currenlty I do practice web development. I work on random projects in my free time, a lot involving Discord!
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
