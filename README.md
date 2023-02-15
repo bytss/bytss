@@ -8,7 +8,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,kotlin,java,figma,html,css,php,js,tailwind,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kotlin,java,figma,html,css,php,js,tailwind,bootstrap,laravel)](https://skillicons.dev)
 
 <!--
 **bytss/me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
